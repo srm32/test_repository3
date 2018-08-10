@@ -1,0 +1,9 @@
+---
+title: "test"
+output: pdf_document
+---
+
+```{r}
+#this is comment within a chunk with no code
+```
+this is a free text with nothing in it
