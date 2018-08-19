@@ -1,9 +1,13 @@
 ---
 title: "test"
-output: pdf_document
+output: word_document
+bibliography: references.bib
 ---
 
 ```{r}
 #this is comment within a chunk with no code
 ```
-this is a free text with nothing in it
+
+# Methods
+
+The fake methods comes from whatever [@Tuman1991]
